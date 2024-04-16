@@ -10,4 +10,4 @@ En este curso vi de todo:
 *  Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 
-#U n bonito Readme
+# Un bonito Readme
